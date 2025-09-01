@@ -1,4 +1,4 @@
-name = "changli"
+name = "mkats"
 main = "build/worker/shim.mjs"
 compatibility_date = "2024-05-23"
 minify = true
@@ -17,6 +17,6 @@ command = "cargo install worker-build && worker-build --release"
 build = { command = "cargo install worker-build && worker-build --dev" }
 
 [vars]
-UUID = "aacac2d2-cac8-442a-9f2c-4e4f807065f5"
+UUID = "d43abb77-f2c4-41a3-a8af-a3b304f0982b"
 MAIN_PAGE_URL = "https://raw.githubusercontent.com/Mayumiwandi/Changli/refs/heads/main/web/index.html"
 SUB_PAGE_URL = "https://raw.githubusercontent.com/Mayumiwandi/Changli/refs/heads/main/web/sub.html"
